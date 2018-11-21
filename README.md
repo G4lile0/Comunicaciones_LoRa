@@ -2,7 +2,7 @@
 Recursos del Grupo: Comunicaciones LoRa de larga distancia
 
 
-**Próximos Meetup**
+**Próximos Meetup** :
 
 
 
@@ -31,9 +31,13 @@ https://gist.github.com/xoseperez/6df2601b92f749751d906cf58d026a3b
 
 
 **Hall of Fame**  __Larga distancia__:
-37,77 km @287226676 (AngeLinuX)   MolukasLabs
+
+37,77 km @287226676 (AngeLinuX)   MolukasLabs 
+
 33,73 km @Movilujo
+
 23,09 km @G4lile0
+
 
 **Enlace de Telegram del grupo:**
 https://t.me/joinchat/DmYSEhHLTCAfDOhDA_MOzw
