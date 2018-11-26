@@ -21,11 +21,17 @@ Recursos del Grupo: Comunicaciones LoRa de larga distancia
   - [Enviar coordenadas GPS por LoRaWAN TTN](http://akirasan.net/enviar-coordenadas-gps-por-lorawan-the-things-network/) de [@akirasan](https://twitter.com/akirasan)
   - [Termostato - Ejemplos de comunicación bidireccional con MKRWAN1300, LoPy & TheThingsUno](https://github.com/ttncat/termostat/) de [@ttncat](http://twitter.com/ttncat)
   - [AirQuality - Sensor de calidad del aire con TTGO LoRa32 (ESP32)](https://github.com/ttncat/airquality/) de [@ttncat](http://twitter.com/ttncat)
+  - [Curso de introducción a LoRa](https://www.youtube.com/watch?v=T3dGLqZrjIQ) de  [@thethingsntwrk] (https://twitter.com/thethingsntwrk)
 
 * #### **Single Channel Gateway :**
 * 
   - [Información SCG (Single channel Gateway)](https://www.thethingsnetwork.org/forum/t/the-future-of-single-channel-gateways/6590)
   - [Minigateway LoRa monocanal con ESP32](http://akirasan.net/minigateway-lora-monocanal-con-esp32/) de [@akirasan](https://twitter.com/akirasan)
+
+* #### **Nodos :**
+*
+  - [Nodo de bajo consumo con ATTyny84a](http://www.iot-lab.org/blog/101/) de [@iot_lab_org](https://twitter.com/iot_lab_org)
+  - [Hilo sobre nodos de bajo consumo](https://www.thethingsnetwork.org/forum/t/full-arduino-mini-lorawan-below-1ua-sleep-mode/8059)
 
 * #### **DIY Gateway :**
 * 
