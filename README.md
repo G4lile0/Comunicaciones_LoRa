@@ -45,6 +45,9 @@ Recursos del Grupo: Comunicaciones LoRa de larga distancia
   - [Monitor your TTN gateways with Node-RED](http://tinkerman.cat/monitor-your-ttn-gateways-with-node-red/) de [@xoseperez](https://twitter.com/xoseperez)
   - [Notificar por Telegram nuevos Gateway 'cercanos' y su estado](https://gist.github.com/xoseperez/6df2601b92f749751d906cf58d026a3b) de [@xoseperez](https://twitter.com/xoseperez)
 
+* #### **Proyectos**
+
+  - [Nodo para medidas ambientales](http://www.bolkesteijn.nl/blog/index.php?page=lora-environmental-node) de [lex_ph2lb](ph2lb.nl/blog/index.php)
 
 ## **Hall of Fame**  __Larga distancia__:
 
