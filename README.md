@@ -27,6 +27,10 @@ Recursos del Grupo: Comunicaciones LoRa de larga distancia
   - [Información SCG (Single channel Gateway)](https://www.thethingsnetwork.org/forum/t/the-future-of-single-channel-gateways/6590)
   - [Minigateway LoRa monocanal con ESP32](http://akirasan.net/minigateway-lora-monocanal-con-esp32/) de [@akirasan](https://twitter.com/akirasan)
 
+* #### **Nodos :**
+*
+  - [Nodo de bajo consumo con ATTyny84a](http://www.iot-lab.org/blog/101/) de [@iot_lab_org](https://twitter.com/iot_lab_org)
+
 * #### **DIY Gateway :**
 * 
   - [RAK833 meets Raspberry Pi](http://tinkerman.cat/rak833-meets-raspberry-pi/) de [@xoseperez](https://twitter.com/xoseperez)
