@@ -35,6 +35,7 @@ Recursos del Grupo: Comunicaciones LoRa de larga distancia
 * 
   - [Parámetros de una antena](https://t.co/heSZf1u8DF) de [@gmag12](https://twitter.com/gmag12)
   - [Diseño de una antena colineal para 868MHz](http://www.bolkesteijn.nl/blog/index.php?page=lora-antenna) de [lex_ph2lb](ph2lb.nl/blog/index.php). [Corrección de longitudes](http://www.bolkesteijn.nl/blog/index.php?page=lora-antenna-update)
+  - [Antena de plano de tierra](http://www.bolkesteijn.nl/blog/index.php?page=lora-gp-antenna) de [lex_ph2lb](ph2lb.nl/blog/index.php)
 
 * #### **TTN MAPPER :**
 * 
