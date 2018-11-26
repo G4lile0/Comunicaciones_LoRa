@@ -24,7 +24,7 @@ Recursos del Grupo: Comunicaciones LoRa de larga distancia
   - [Curso de introducción a LoRa](https://www.youtube.com/watch?v=T3dGLqZrjIQ) de  [@thethingsntwrk] (https://twitter.com/thethingsntwrk)
 
 * #### **Single Channel Gateway :**
-* 
+
   - [Información SCG (Single channel Gateway)](https://www.thethingsnetwork.org/forum/t/the-future-of-single-channel-gateways/6590)
   - [Minigateway LoRa monocanal con ESP32](http://akirasan.net/minigateway-lora-monocanal-con-esp32/) de [@akirasan](https://twitter.com/akirasan)
 
@@ -34,16 +34,16 @@ Recursos del Grupo: Comunicaciones LoRa de larga distancia
   - [Hilo sobre nodos de bajo consumo](https://www.thethingsnetwork.org/forum/t/full-arduino-mini-lorawan-below-1ua-sleep-mode/8059)
 
 * #### **DIY Gateway :**
-* 
+
   - [RAK833 meets Raspberry Pi](http://tinkerman.cat/rak833-meets-raspberry-pi/) de [@xoseperez](https://twitter.com/xoseperez)
 
 * #### **Antenas :**
-* 
+
   - [Parámetros de una antena](https://t.co/heSZf1u8DF) de [@gmag12](https://twitter.com/gmag12)
   - [Antena LORA 868MHz J-Pole DIY](https://www.thethingsnetwork.org/forum/t/antenna-experiment-868mhz-j-pole/3620) de [lex_ph2lb](ph2lb.nl/blog/index.php)
 
 * #### **TTN MAPPER :**
-* 
+
    - [TTN tracker basado en el TTGO T-Beam (LoRa+ESP32+GPS) ](https://github.com/xoseperez/ttgo-beam-tracker) de [@xoseperez](https://twitter.com/xoseperez)
    - [TTN tracker basico con LCD basado en Arduino ](https://github.com/G4lile0/LoRa_LCD_TTN_Mapper) de [@G4lile0](https://twitter.com/g4lile0)
 
