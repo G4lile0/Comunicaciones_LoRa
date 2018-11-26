@@ -31,6 +31,7 @@ Recursos del Grupo: Comunicaciones LoRa de larga distancia
 * #### **Nodos :**
 *
   - [Nodo de bajo consumo con ATTyny84a](http://www.iot-lab.org/blog/101/) de [@iot_lab_org](https://twitter.com/iot_lab_org)
+  - [Hilo sobre nodos de bajo consumo](https://www.thethingsnetwork.org/forum/t/full-arduino-mini-lorawan-below-1ua-sleep-mode/8059)
 
 * #### **DIY Gateway :**
 * 
