@@ -21,6 +21,7 @@ Recursos del Grupo: Comunicaciones LoRa de larga distancia
   - [Enviar coordenadas GPS por LoRaWAN TTN](http://akirasan.net/enviar-coordenadas-gps-por-lorawan-the-things-network/) de [@akirasan](https://twitter.com/akirasan)
   - [Termostato - Ejemplos de comunicación bidireccional con MKRWAN1300, LoPy & TheThingsUno](https://github.com/ttncat/termostat/) de [@ttncat](http://twitter.com/ttncat)
   - [AirQuality - Sensor de calidad del aire con TTGO LoRa32 (ESP32)](https://github.com/ttncat/airquality/) de [@ttncat](http://twitter.com/ttncat)
+  - [Curso de introducción a LoRa](https://www.youtube.com/watch?v=T3dGLqZrjIQ) de  [@thethingsntwrk] (https://twitter.com/thethingsntwrk)
 
 * #### **Single Channel Gateway :**
 * 
