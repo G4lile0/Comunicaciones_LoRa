@@ -7,30 +7,43 @@ Recursos del Grupo: Comunicaciones LoRa de larga distancia
 * **viernes, 30 de noviembre de 2018 (Madrid):**
   * [Remate Talleres DIY, consultas y networking TTNMAD - MEDIALAB PRADO](https://www.meetup.com/es-ES/The-Things-Network-Madrid-Community/events/256651447/)
 
+* **lunes, 17 de diciembre de 2018 (Barcelona):**
+  * [Presentación: Community based open source IoT Infrastructure - Barcelona Free Software & The Things Network Catalunya](https://www.meetup.com/Barcelona-Free-Software/events/256644535/)
+
 
 ## **Recursos**:
 
 * #### **Introducción :**
 
   - [Introducción a LoRa e información sobre como fabricar un SCG](https://bricolabs.cc/wiki/guias/lora_ttn) de [@TCRobotics](https://twitter.com/tcrobotics)
-
-  - [Por dónde empezar e información muy buena sobre cómo se codifica la información](http://akirasan.net/tag/lora/) de [@akirasan](https://twitter.com/akirasan)
+  - [Nodo LoRaWAN con ESP32](http://akirasan.net/nodo-lorawan-con-esp32/) de [@akirasan](https://twitter.com/akirasan)
+  - [Cómo transmitir datos en LoRaWAN, reduciendo el payload](http://akirasan.net/la-importancia-de-un-buen-payload-en-lorawan/) de [@akirasan](https://twitter.com/akirasan)
+  - [Enviar coordenadas GPS por LoRaWAN TTN](http://akirasan.net/enviar-coordenadas-gps-por-lorawan-the-things-network/) de [@akirasan](https://twitter.com/akirasan)
+  - [Termostato - Ejemplos de comunicación bidireccional con MKRWAN1300, LoPy & TheThingsUno](https://github.com/ttncat/termostat/) de [@ttncat](http://twitter.com/ttncat)
+  - [AirQuality - Sensor de calidad del aire con TTGO LoRa32 (ESP32)](https://github.com/ttncat/airquality/) de [@ttncat](http://twitter.com/ttncat)
 
 * #### **Single Channel Gateway :**
+* 
   - [Información SCG (Single channel Gateway)](https://www.thethingsnetwork.org/forum/t/the-future-of-single-channel-gateways/6590)
+  - [Minigateway LoRa monocanal con ESP32](http://akirasan.net/minigateway-lora-monocanal-con-esp32/) de [@akirasan](https://twitter.com/akirasan)
+
+* #### **DIY Gateway :**
+* 
+  - [RAK833 meets Raspberry Pi](http://tinkerman.cat/rak833-meets-raspberry-pi/) de [@xoseperez](https://twitter.com/xoseperez)
 
 * #### **Antenas :**
+* 
   - [Parámetros de una antena](https://t.co/heSZf1u8DF) de [@gmag12](https://twitter.com/gmag12)
 
-
 * #### **TTN MAPPER :**
-   - [TTN tracker basado en el TTGO T-Beam (LoRa+ESP32+GPS) ](https://github.com/xoseperez/ttgo-beam-tracker) de [Xose Pérez](https://twitter.com/xoseperez)
+* 
+   - [TTN tracker basado en el TTGO T-Beam (LoRa+ESP32+GPS) ](https://github.com/xoseperez/ttgo-beam-tracker) de [@xoseperez](https://twitter.com/xoseperez)
    - [TTN tracker basico con LCD basado en Arduino ](https://github.com/G4lile0/LoRa_LCD_TTN_Mapper) de [@G4lile0](https://twitter.com/g4lile0)
-
 
 * #### **NodeRed :**
 
-  - Código de [Xose Pérez](https://twitter.com/xoseperez) para [notificar por Telegram nuevos Gateway 'cercanos' y su estado](https://gist.github.com/xoseperez/6df2601b92f749751d906cf58d026a3b)
+  - [Monitor your TTN gateways with Node-RED](http://tinkerman.cat/monitor-your-ttn-gateways-with-node-red/) de [@xoseperez](https://twitter.com/xoseperez)
+  - [Notificar por Telegram nuevos Gateway 'cercanos' y su estado](https://gist.github.com/xoseperez/6df2601b92f749751d906cf58d026a3b) de [@xoseperez](https://twitter.com/xoseperez)
 
 
 ## **Hall of Fame**  __Larga distancia__:
