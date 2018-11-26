@@ -34,6 +34,7 @@ Recursos del Grupo: Comunicaciones LoRa de larga distancia
 * #### **Antenas :**
 * 
   - [Parámetros de una antena](https://t.co/heSZf1u8DF) de [@gmag12](https://twitter.com/gmag12)
+  - [Antena LORA 868MHz J-Pole DIY](https://www.thethingsnetwork.org/forum/t/antenna-experiment-868mhz-j-pole/3620) de [lex_ph2lb](ph2lb.nl/blog/index.php)
 
 * #### **TTN MAPPER :**
 * 
