@@ -5,10 +5,10 @@ Recursos del Grupo: Comunicaciones LoRa de larga distancia
 ## **Próximos Meetup** :
 
 * **viernes, 30 de noviembre de 2018 (Madrid):**
-  * [Remate Talleres DIY, consultas y networking TTNMAD - MEDIALAB PRADO](https://www.meetup.com/es-ES/The-Things-Network-Madrid-Community/events/256651447/)
+  - [Remate Talleres DIY, consultas y networking TTNMAD - MEDIALAB PRADO](https://www.meetup.com/es-ES/The-Things-Network-Madrid-Community/events/256651447/)
 
 * **lunes, 17 de diciembre de 2018 (Barcelona):**
-  * [Presentación: Community based open source IoT Infrastructure - Barcelona Free Software & The Things Network Catalunya](https://www.meetup.com/Barcelona-Free-Software/events/256644535/)
+  - [Presentación: Community based open source IoT Infrastructure - Barcelona Free Software & The Things Network Catalunya](https://www.meetup.com/Barcelona-Free-Software/events/256644535/)
 
 
 ## **Recursos**:
@@ -29,7 +29,7 @@ Recursos del Grupo: Comunicaciones LoRa de larga distancia
   - [Minigateway LoRa monocanal con ESP32](http://akirasan.net/minigateway-lora-monocanal-con-esp32/) de [@akirasan](https://twitter.com/akirasan)
 
 * #### **Nodos :**
-*
+
   - [Nodo de bajo consumo con ATTyny84a](http://www.iot-lab.org/blog/101/) de [@iot_lab_org](https://twitter.com/iot_lab_org)
   - [Hilo sobre nodos de bajo consumo](https://www.thethingsnetwork.org/forum/t/full-arduino-mini-lorawan-below-1ua-sleep-mode/8059)
 
@@ -40,6 +40,9 @@ Recursos del Grupo: Comunicaciones LoRa de larga distancia
 * #### **Antenas :**
 
   - [Parámetros de una antena](https://t.co/heSZf1u8DF) de [@gmag12](https://twitter.com/gmag12)
+  - [Diseño de una antena colineal para 868MHz](http://www.bolkesteijn.nl/blog/index.php?page=lora-antenna) de [lex_ph2lb](ph2lb.nl/blog/index.php). [Corrección de longitudes](http://www.bolkesteijn.nl/blog/index.php?page=lora-antenna-update)
+  - [Antena de plano de tierra](http://www.bolkesteijn.nl/blog/index.php?page=lora-gp-antenna) de [lex_ph2lb](ph2lb.nl/blog/index.php)
+  - [Software de simulación de antenas](https://www.qsl.net/4nec2/)
   - [Antena LORA 868MHz J-Pole DIY](https://www.thethingsnetwork.org/forum/t/antenna-experiment-868mhz-j-pole/3620) de [lex_ph2lb](ph2lb.nl/blog/index.php)
 
 * #### **TTN MAPPER :**
