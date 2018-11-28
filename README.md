@@ -44,6 +44,7 @@ Recursos del Grupo: Comunicaciones LoRa de larga distancia
   - [Antena de plano de tierra](http://www.bolkesteijn.nl/blog/index.php?page=lora-gp-antenna) de [lex_ph2lb](ph2lb.nl/blog/index.php)
   - [Software de simulación de antenas](https://www.qsl.net/4nec2/)
   - [Antena LORA 868MHz J-Pole DIY](https://www.thethingsnetwork.org/forum/t/antenna-experiment-868mhz-j-pole/3620) de [lex_ph2lb](ph2lb.nl/blog/index.php)
+  - [Herramienta online simulación de cobertura](http://heywhatsthat.com/) truco de [@juanfelixmateos](@juanfelixmateos)
 
 * #### **TTN MAPPER :**
 
@@ -63,8 +64,7 @@ Recursos del Grupo: Comunicaciones LoRa de larga distancia
 
   - [37,77 km](https://twitter.com/rioblez/status/981424740723240960) ---- [@AngeLinuX](https://twitter.com/angelinux99) /  [@MolukasLabs](https://twitter.com/MolukasLabs)
   - 33,73 km ---- [@Movilujo](https://twitter.com/Movilujo)
-  - [23,09 km](https://twitter.com/G4lile0/status/1066658665913032704) ---- [@G4lile0](https://twitter.com/g4lile0)
-
+  - [23,3 km](https://twitter.com/G4lile0/status/1066658665913032704) ---- [@G4lile0](https://twitter.com/g4lile0)
 
 ## **Enlace de Telegram del grupo:**
 *   https://t.me/joinchat/DmYSEhHLTCAfDOhDA_MOzw
