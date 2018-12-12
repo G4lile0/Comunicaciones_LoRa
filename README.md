@@ -4,11 +4,14 @@ Recursos del Grupo: Comunicaciones LoRa de larga distancia
 
 ## **Próximos Meetup** :
 
-* **viernes, 30 de noviembre de 2018 (Madrid):**
-  - [Remate Talleres DIY, consultas y networking TTNMAD - MEDIALAB PRADO](https://www.meetup.com/es-ES/The-Things-Network-Madrid-Community/events/256651447/)
+~~* **viernes, 30 de noviembre de 2018 (Madrid):**
+  - [Remate Talleres DIY, consultas y networking TTNMAD - MEDIALAB PRADO](https://www.meetup.com/es-ES/The-Things-Network-Madrid-Community/events/256651447/)~
 
 * **lunes, 17 de diciembre de 2018 (Barcelona):**
   - [Presentación: Community based open source IoT Infrastructure - Barcelona Free Software & The Things Network Catalunya](https://www.meetup.com/Barcelona-Free-Software/events/256644535/)
+  
+* **viernes, 14 de diciembre de 2018**
+  - [Taller de integraciones y Node-Red con The Things Network](https://www.meetup.com/es/The-Things-Network-Madrid-Community/events/257136094/)
 
 
 ## **Recursos**:
@@ -22,6 +25,8 @@ Recursos del Grupo: Comunicaciones LoRa de larga distancia
   - [Termostato - Ejemplos de comunicación bidireccional con MKRWAN1300, LoPy & TheThingsUno](https://github.com/ttncat/termostat/) de [@ttncat](http://twitter.com/ttncat)
   - [AirQuality - Sensor de calidad del aire con TTGO LoRa32 (ESP32)](https://github.com/ttncat/airquality/) de [@ttncat](http://twitter.com/ttncat)
   - [Curso de introducción a LoRa](https://www.youtube.com/watch?v=T3dGLqZrjIQ) de  [@thethingsntwrk](https://twitter.com/thethingsntwrk)
+  - [Recursos sobre LoRa](https://www.avekt.com/wiki/index.php?title=LoRa) de https://www.avekt.com/
+  - [Presentación LoRa de la RSA Conference](https://www.rsaconference.com/writable/presentations/file_upload/hta-f01-decoding-lora-a-wireless-network-for-the-internet-of-things_copy1.pdf)
 
 * #### **Single Channel Gateway :**
 
@@ -59,6 +64,24 @@ Recursos del Grupo: Comunicaciones LoRa de larga distancia
 * #### **Proyectos**
 
   - [Nodo para medidas ambientales](http://www.bolkesteijn.nl/blog/index.php?page=lora-environmental-node) de [lex_ph2lb](ph2lb.nl/blog/index.php)
+  - [Archivos de un workshop de TTN](https://github.com/galagaking/ttn_nodeworkshop)
+
+* #### Modulación LoRa
+
+	- [Decodificación de LoRa con RTL-SDR](https://www.rtl-sdr.com/decoding-the-iot-lora-protocol-with-an-rtl-sdr/). [**Versión WiKi**](https://revspace.nl/DecodingLora)
+	- [Modem LoRa con LimeSDR](https://myriadrf.org/blog/lora-modem-limesdr/)
+	- [Decodificación LoRa con SDR](https://pubs.gnuradio.org/index.php/grcon/article/download/8/7) **(PDF)**
+	- [Decodificador multicanal SDR de LoRa](https://www.robyns.me/docs/robyns2018lora.pdf) **(PDF)**
+	- [Descripción de LoRa](https://www.link-labs.com/blog/what-is-lora). --> [**Video relacionado**](https://mirror.netcologne.de/CCC//congress/2016/h264-hd/33c3-7945-eng-Decoding_the_LoRa_PHY.mp4) <--
+	- Repositorio en GitHub sobre [Lora PHY con SDR](https://github.com/BastilleResearch/gr-lora)
+	- **Video** sobre el proceso de ingeniería inversa de la señal LoRa
+	[![IMAGE ALT TEXT](http://img.youtube.com/vi/-YNMRZC6v1s/1.jpg)](http://www.youtube.com/watch?v=-YNMRZC6v1s "GRCon16 - Reversing and Implementing the LoRA PHY with SDR, Matt Knight")
+	- [Instalación de RTL-SDR y software SDR# en Windows](https://www.deviceplus.com/how-tos/arduino-guide/intro-to-rtl-sdr-for-amfm-ism-band-lora-transmission-and-satellite-tracking/) También habla sobre la [captura de señales LoRa]((https://www.deviceplus.com/how-tos/arduino-guide/intro-to-rtl-sdr-for-amfm-ism-band-lora-transmission-and-satellite-tracking/))
+	- [Presentación sobre LoRa y posibles ataques al cifrado de los paquetes](https://archive.fosdem.org/2018/schedule/event/sdr_lora_aes/attachments/slides/2357/export/events/attachments/sdr_lora_aes/slides/2357/LoRa_AES_Security_SDR_FOSDEM_2018.pdf) **(PDF)**
+	- [Presentación Reversing LoRa](https://www.avekt.com/)
+
+* #### Librerías
+	- [LoRaLib](https://www.deviceplus.com/how-tos/arduino-guide/arduino-long-range-communication-tutorial-loralib-library/). Librería para usar LoRA (no LoRaWan) de manera sencilla. [Repositorio en GitHub](https://github.com/jgromes/LoRaLib)
 
 ## **Hall of Fame**  __Larga distancia__:
 
