@@ -4,15 +4,12 @@ Recursos del Grupo: Comunicaciones LoRa de larga distancia
 
 ## **Próximos Meetup** :
 
-~~* **viernes, 30 de noviembre de 2018 (Madrid):**
-  - [Remate Talleres DIY, consultas y networking TTNMAD - MEDIALAB PRADO](https://www.meetup.com/es-ES/The-Things-Network-Madrid-Community/events/256651447/)~
+* **viernes, 14 de diciembre de 2018 (Madrid)**
+  - [Taller de integraciones y Node-Red con The Things Network](https://www.meetup.com/es/The-Things-Network-Madrid-Community/events/257136094/)
 
 * **lunes, 17 de diciembre de 2018 (Barcelona):**
   - [Presentación: Community based open source IoT Infrastructure - Barcelona Free Software & The Things Network Catalunya](https://www.meetup.com/Barcelona-Free-Software/events/256644535/)
-  
-* **viernes, 14 de diciembre de 2018**
-  - [Taller de integraciones y Node-Red con The Things Network](https://www.meetup.com/es/The-Things-Network-Madrid-Community/events/257136094/)
-
+ 
 
 ## **Recursos**:
 
