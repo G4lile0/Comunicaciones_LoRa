@@ -63,8 +63,11 @@ Recursos del Grupo: Comunicaciones LoRa de larga distancia
   - [Nodo para medidas ambientales](http://www.bolkesteijn.nl/blog/index.php?page=lora-environmental-node) de [lex_ph2lb](ph2lb.nl/blog/index.php)
   - [Archivos de un workshop de TTN](https://github.com/galagaking/ttn_nodeworkshop)
 
-* #### Modulación LoRa
 
+
+* #### **Documentación LoRa**
+
+     - [Especificaciones LoRaWAN](https://github.com/gonzalocasas/Specifications/tree/master/docs)
 	- [Decodificación de LoRa con RTL-SDR](https://www.rtl-sdr.com/decoding-the-iot-lora-protocol-with-an-rtl-sdr/). [**Versión WiKi**](https://revspace.nl/DecodingLora)
 	- [Modem LoRa con LimeSDR](https://myriadrf.org/blog/lora-modem-limesdr/)
 	- [Decodificación LoRa con SDR](https://pubs.gnuradio.org/index.php/grcon/article/download/8/7) **(PDF)**
