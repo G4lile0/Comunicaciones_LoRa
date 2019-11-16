@@ -83,11 +83,6 @@ Recursos del Grupo: Comunicaciones LoRa de larga distancia
 * #### Librerías
 	- [LoRaLib](https://www.deviceplus.com/how-tos/arduino-guide/arduino-long-range-communication-tutorial-loralib-library/). Librería para usar LoRA (no LoRaWan) de manera sencilla. [Repositorio en GitHub](https://github.com/jgromes/LoRaLib)
 
-## **Hall of Fame**  __Larga distancia__:
-
-  - [37,77 km](https://twitter.com/rioblez/status/981424740723240960) ---- [@AngeLinuX](https://twitter.com/angelinux99) /  [@MolukasLabs](https://twitter.com/MolukasLabs)
-  - 33,73 km ---- [@Movilujo](https://twitter.com/Movilujo)
-  - [23,3 km](https://twitter.com/G4lile0/status/1066658665913032704) ---- [@G4lile0](https://twitter.com/g4lile0)
 
 ## **Enlace de Telegram del grupo:**
 *   https://t.me/joinchat/DmYSEhHLTCAfDOhDA_MOzw
