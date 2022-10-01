@@ -64,7 +64,7 @@ Recursos del Grupo: Comunicaciones LoRa de larga distancia
      - [Especificaciones LoRaWAN](https://github.com/gonzalocasas/Specifications/tree/master/docs)
 	- [Decodificación de LoRa con RTL-SDR](https://www.rtl-sdr.com/decoding-the-iot-lora-protocol-with-an-rtl-sdr/). [**Versión WiKi**](https://revspace.nl/DecodingLora)
 	- [Modem LoRa con LimeSDR](https://myriadrf.org/blog/lora-modem-limesdr/)
-	- [Decodificación LoRa con SDR](https://pubs.gnuradio.org/index.php/grcon/article/download/8/7) **(PDF)**
+	- [Decodificación LoRa con SDR](https://web.archive.org/web/20220121110721/https://pubs.gnuradio.org/index.php/grcon/article/download/8/7) **(PDF)**
 	- [Decodificador multicanal SDR de LoRa](https://www.robyns.me/docs/robyns2018lora.pdf) **(PDF)**
 	- [Descripción de LoRa](https://www.link-labs.com/blog/what-is-lora). --> [**Video relacionado**](https://mirror.netcologne.de/CCC//congress/2016/h264-hd/33c3-7945-eng-Decoding_the_LoRa_PHY.mp4) <--
 	- Repositorio en GitHub sobre [Lora PHY con SDR](https://github.com/BastilleResearch/gr-lora)
